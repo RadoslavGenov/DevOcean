@@ -1,5 +1,5 @@
 
-This is the React JS Application that I was instructed to make. For the small size of the application this is the architecture that i chose to go with: (git does not let me add empty directories and rather than putting empty JS files in each directory I have listed the set up architecture here)
+This is the React TS Application that I was instructed to make. For the small size of the application this is the architecture that i chose to go with: (git does not let me add empty directories and rather than putting empty JS files in each directory I have listed the set up architecture here)
 
     -src
     -components
