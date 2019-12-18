@@ -11,6 +11,8 @@ This is the React TS Application that I was instructed to make. For the small si
     -screens
     -shared
     -tools
+    
+I also want to add that I have not made the application responsive!
 
 If this had been an application which would have required to be much larger and extensible I would have used a different architecture dividing responsibilities into separate modules, each of which would have its own styles, tools, utils, redux, and index files. To have better separation of concerns.
 
